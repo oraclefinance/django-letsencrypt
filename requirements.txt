@@ -1,6 +1,6 @@
 # Packages required for the project
 
-Django
+Django>=2
 pytz
 
 # Packages required when developing the project
